@@ -1,0 +1,6 @@
+[submodule "bpdash-client"]
+	path = bpdash-client
+	url = https://github.com/To-en/bpdash-client.git
+[submodule "bpdash-server"]
+	path = bpdash-server
+	url = https://github.com/To-en/bpdash-server.git

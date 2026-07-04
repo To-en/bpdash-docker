@@ -1,0 +1,6 @@
+.DS_Store
+.env
+graphify-out
+worktrees
+.claude/*.local*
+.codex/*.local*
